@@ -1,0 +1,63 @@
+MJPG Streamer Version.: 2.0
+ i: fps.............: 10
+ i: resolution........: 980 x 450
+ i: camera parameters..............:
+
+Sharpness 0, Contrast 0, Brightness 50
+Saturation 0, ISO 0, Video Stabilisation No, Exposure compensation 0
+Exposure Mode 'auto', AWB Mode 'auto', Image Effect 'none'
+Metering Mode 'average', Colour Effect Enabled No with U = 128, V = 128
+Rotation 0, hflip No, vflip No
+ROI x 0.000000, y 0.000000, w 1.000000 h 1.000000
+ o: www-folder-path...: /opt/mjpg-streamer/www/
+ o: HTTP TCP port.....: 9000
+ o: username:password.: disabled
+ o: commands..........: enabled
+ i: Starting Camera
+Encoder Buffer Size 81920
+setting signal to stop
+force cancellation of threads and cleanup resources
+ o: cleaning up resources allocated by server thread #00
+done
+MJPG Streamer Version.: 2.0
+ i: fps.............: 10
+ i: resolution........: 980 x 450
+ i: camera parameters..............:
+
+Sharpness 0, Contrast 0, Brightness 50
+Saturation 0, ISO 0, Video Stabilisation No, Exposure compensation 0
+Exposure Mode 'auto', AWB Mode 'auto', Image Effect 'none'
+Metering Mode 'average', Colour Effect Enabled No with U = 128, V = 128
+Rotation 0, hflip No, vflip No
+ROI x 0.000000, y 0.000000, w 1.000000 h 1.000000
+ o: www-folder-path...: /opt/mjpg-streamer/www/
+ o: HTTP TCP port.....: 9000
+ o: username:password.: disabled
+ o: commands..........: enabled
+ i: Starting Camera
+Encoder Buffer Size 81920
+setting signal to stop
+force cancellation of threads and cleanup resources
+ o: cleaning up resources allocated by server thread #00
+done
+MJPG Streamer Version.: 2.0
+ i: fps.............: 10
+ i: resolution........: 980 x 450
+ i: camera parameters..............:
+
+Sharpness 0, Contrast 0, Brightness 50
+Saturation 0, ISO 0, Video Stabilisation No, Exposure compensation 0
+Exposure Mode 'auto', AWB Mode 'auto', Image Effect 'none'
+Metering Mode 'average', Colour Effect Enabled No with U = 128, V = 128
+Rotation 0, hflip No, vflip No
+ROI x 0.000000, y 0.000000, w 1.000000 h 1.000000
+ o: www-folder-path...: /opt/mjpg-streamer/www/
+ o: HTTP TCP port.....: 9000
+ o: username:password.: disabled
+ o: commands..........: enabled
+ i: Starting Camera
+Encoder Buffer Size 81920
+setting signal to stop
+force cancellation of threads and cleanup resources
+ o: cleaning up resources allocated by server thread #00
+done
