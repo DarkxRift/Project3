@@ -1,3 +1,0 @@
- strAngle = raw_input("enter desired angle (0 to 180): ")
-        intAngle = int(strAngle)
-        dutyCycle = ((float(intAngle) * 0.01) + 0.5) * 10
